@@ -1,0 +1,5 @@
+--alter table tablo...
+--alter table student add student_father_name varchar(15)
+--alter table student drop column student_father_name
+--alter table student alter column  student_name char(10)
+--alter table student alter column student_name varchar(10) not null 
